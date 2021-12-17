@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maurospbr
+- 👋 Hi, I’m @maurospbr Quality Analyst
 - 👀 I’m interested in ... IT, test software
 - 🌱 I’m currently learning ... Gherkin, BDD
 - 💞️ I’m looking to collaborate on QA, software testing.
